@@ -1,0 +1,22 @@
+Semester 1: 
+
+- Developed a Tic Tac game in C, with 2 different modes either player Vs player or player Vs Machine
+- Designed an Innovative Logo (first as sketch then digitally) for a tech company as part of the Industrial design module 
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Semester 2: 
+
+- Successfully Completed various tasks in C and C++ as part of the CS II Lab 
+- Successfully completed various tasks in the hardware engineering lab using real hardware tools
+- Successfully completed various tasks in CAD & Solid Works as part of the Engineering Design Course
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Semester 3: 
+
+- Developing a Self-Driving car: 
+This projects was the first big project I worked on. I developed with my team a self-driving car from scratch. We built the car
+by ourselves using simple material, then did the System design and system architecture of the Self driving car using MBSE methods
+and in particular UML/SysML, then integrated the ultrasonic and infrared sensors and a camera, then we programmed the 2 microcontrollers
+we used (Arduino Uno and Raspberry Pi), then we designed a simple app for the live stream of the camera and successfully tested the car 
+which worked exactly as we expected when doing the system design. This project was a complex multi-disciplinary project that required
+4 months of work to be finshed, but the end result was very satisfying.
